@@ -62,6 +62,11 @@ return (
 )
 ```
 
+Run the app
+```bash
+pnpm exec nx run expo-app:start
+```
+
 Bundler fails with error:
 ```text
 Web Bundling failed 1175ms (C:\projects\temp\expo-with-lib\apps\expo-app\index.js)
